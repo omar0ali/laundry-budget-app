@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/laundry-budget-app/static/css/main.89cdd4d4.css",
-    "main.js": "/laundry-budget-app/static/js/main.ae6f904b.js",
+    "main.css": "/laundry-budget-app/static/css/main.a53756af.css",
+    "main.js": "/laundry-budget-app/static/js/main.5a748059.js",
     "index.html": "/laundry-budget-app/index.html",
-    "main.89cdd4d4.css.map": "/laundry-budget-app/static/css/main.89cdd4d4.css.map",
-    "main.ae6f904b.js.map": "/laundry-budget-app/static/js/main.ae6f904b.js.map"
+    "main.a53756af.css.map": "/laundry-budget-app/static/css/main.a53756af.css.map",
+    "main.5a748059.js.map": "/laundry-budget-app/static/js/main.5a748059.js.map"
   },
   "entrypoints": [
-    "static/css/main.89cdd4d4.css",
-    "static/js/main.ae6f904b.js"
+    "static/css/main.a53756af.css",
+    "static/js/main.5a748059.js"
   ]
 }
