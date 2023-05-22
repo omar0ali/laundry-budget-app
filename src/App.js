@@ -35,6 +35,7 @@ function App() {
     var amount = document.getElementById("amount").value;
     var washer = document.getElementById("washer").value;
     var dryer = document.getElementById("dryer").value;
+    if(amount == "" || washer == "" || dryer == "") {return;}
     console.log(amount + ' ' + washer + ' ' + dryer);
     result.innerHTML = "";
     result.innerHTML += "Washer Cost: $" + washer + "<br>Dryer Cost: $" + dryer;
@@ -45,7 +46,7 @@ function App() {
     <>
       <div className="style" >
         <h1>The Wash and Dry Calculation</h1>
-        <fieldset class="container">
+        <fieldset className="container">
           <table>
             <tbody>
               <tr>
@@ -61,7 +62,7 @@ function App() {
           </table>
           <input id="btn" onClick={calculateCoin} type="button" value="Calculate"></input>
           <br></br>
-          <div class="content">
+          <div className="content">
             <p id="result"></p>
           </div>
         </fieldset>
