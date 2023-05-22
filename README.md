@@ -6,7 +6,7 @@ The result of the calculation includes the number of times you can use both the 
 
 The Wash and Dry Calculation function offers a convenient way to optimize your laundry routine and make informed decisions about budgeting for washing and drying expenses.
 
-Visit site (https://omar0ali.github.io/laundry-budget-app/)[https://omar0ali.github.io/laundry-budget-app/]
+Visit site [https://omar0ali.github.io/laundry-budget-app/](https://omar0ali.github.io/laundry-budget-app/)
 
 # Getting Started with Create React App
 
